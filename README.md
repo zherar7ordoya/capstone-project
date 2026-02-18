@@ -6,8 +6,6 @@
 
 ---
 
-Repositorio de GitHub para "La Mudadora": https://github.com/zherar7ordoya/TFC
-
 ```plaintext
 USUARIO Y CONTRASEÑA INICIALES
 
@@ -15,6 +13,7 @@ Usuario:    admin
 Contraseña: admin
 ```
 
+---
 
 ## Índice
 
