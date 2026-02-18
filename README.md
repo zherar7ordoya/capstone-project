@@ -2,7 +2,7 @@
 
 ![Pantalla principal del sistema: muestra el panel de control con acceso a las principales funcionalidades, como pedidos, facturación y despacho.](./resources/menu.png)
 
-**Pantalla principal del sistema: muestra el panel de control con acceso a las principales funcionalidades, como pedidos, facturación y despacho.**
+**Pantalla principal del sistema que muestra el panel de control con acceso a las principales funcionalidades.**
 
 ---
 
