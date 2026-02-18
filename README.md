@@ -1,4 +1,4 @@
-# La Mudadora 
+# Final Project Presentation
 
 ![Pantalla principal del sistema: muestra el panel de control con acceso a las principales funcionalidades, como pedidos, facturación y despacho.](./resources/menu.png)
 
